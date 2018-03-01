@@ -1,0 +1,8 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    //MovieDetails Layout
+    <dimen name="base_margin">8dp</dimen>
+    <dimen name="detailsimagebox">200dp</dimen>
+    <dimen name="list_itempadding">8dp</dimen>
+    <dimen name="list_item_thumb">100dp</dimen>
+</resources>
